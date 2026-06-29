@@ -1,0 +1,6 @@
+{
+  "name": "SheShield",
+  "description": "A zero-delay safety companion web application designed for split-second, last-minute emergencies with SOS fail-safes, route safety audits, and a realistic ghost call system.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

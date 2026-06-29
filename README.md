@@ -1,2 +1,20 @@
-# SheShield
-SheShield is a zero-delay safety app built for split-second, last-minute emergencies. By putting 3 main options right at the top, it cuts out messy menus. It uses Gemini AI to audit maps for risks, runs realistic "Ghost Calls" in local languages to scare off threats, and has an automated SOS backup text if emergency lines are busy.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/24d91a59-8516-4f79-bf05-404788c5b94c
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
